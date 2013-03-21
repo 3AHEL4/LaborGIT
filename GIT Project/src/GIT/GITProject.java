@@ -10,8 +10,8 @@ public class GITProject {
 	 * rotateRight - Widmann
 	 */
 	
-	
 	int b [] = new int[10];
+	
 	
 	public static void main(String[] args) {
 		//		Das ist ein Programm, das über GIT mit anderen Usern geteilt wird.
