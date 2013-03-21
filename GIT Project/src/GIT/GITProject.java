@@ -9,7 +9,7 @@ public class GITProject {
 		System.out.println("Das wurde verändert -Alex");
 		System.out.println("Das wurde verändert -Steiner");
 		System.out.println("Das wurde verändert -Schöffmann");
-		
+		System.out.println("Das wurde verändert -Stocker");
 	}
 
 }
