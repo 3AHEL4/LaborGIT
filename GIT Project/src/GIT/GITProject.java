@@ -12,7 +12,6 @@ public class GITProject {
 		System.out.println("Das wurde verändert 	-Stocker");
 		System.out.println("I habs geschafft ;))	-Schorn");
 		System.out.println("Scheiß Combo Braker 	-Schöffmann");
-		System.out.println("blödes Git			 	-Schöffmann");
 		
 	}
 
