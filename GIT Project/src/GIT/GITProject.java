@@ -16,7 +16,6 @@ public class GITProject {
 	public static int b [] = new int[10]; // Wurzer
 	
 	public static void werteGeben(int x){ //Schorn
-
 		Random r = new Random();
 		int i =0;
 		for(; i <=10;i++){
@@ -34,8 +33,6 @@ public class GITProject {
 	   System.out.println("Summe = "+sum);  
    }
    public static void printArray(int[] array){ //Steiner
-		System.out.println();
-		System.out.println();
 		for(int i = 0; i < array.length;i++){
 			System.out.print(" "+array[i]);
 		}
@@ -78,8 +75,6 @@ public class GITProject {
 	public static void main(String[] args) {
 		//		Das ist ein Programm, das über GIT mit anderen Usern geteilt wird.
 		werteGeben(10);
-		summeBilden();
-		
 		
 	}
 
