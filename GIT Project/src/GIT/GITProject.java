@@ -13,9 +13,9 @@ public class GITProject {
 	 */
 	
 	
-	public int b [] = new int[10];
+	public static int b [] = new int[10];
 	
-	public void werteGeben(int x){
+	public static void werteGeben(int x){
 
 		Random r = new Random();
 		int i =0;
@@ -25,8 +25,23 @@ public class GITProject {
 		System.out.println(""+b[i]);
 	}
 	
+   public static void summeBilden(){
+	   int sum = 0;
+	   
+	   for(int i=0 ; i<10 ; i++){
+		   sum = sum + b[i];
+	   }
+	   System.out.println("Summe = "+sum);
+	   
+	   
+	   
+   }
+	
 	public static void main(String[] args) {
 		//		Das ist ein Programm, das über GIT mit anderen Usern geteilt wird.
+		werteGeben(10);
+		summeBilden();
+		
 		
 	}
 
