@@ -14,6 +14,8 @@ public class GITProject {
 		System.out.println("Scheiß Combo Braker 	-Schöffmann");
 		System.out.println("HAAAAAAAAAAAAAAAAX	 	-Schöffmann");
 		System.out.println("HALLO VON 				-ANDRE");
+		System.out.println("Haha gwonnen scheis schöffe");
+		
 		
 	}
 
